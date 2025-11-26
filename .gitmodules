@@ -1,3 +1,6 @@
 [submodule "frontend copy"]
 	path = frontend copy
 	url = https://github.com/maphuput-sys/career_platform.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/maphuput-sys/career_platform.git
